@@ -1,0 +1,44 @@
+{
+    "AverageCharAccuracy": 10,
+    "AverageCharErrors": 0,
+    "AverageWordAccuracy": 10,
+    "AverageWordErrors": 0,
+    "pages": {
+        "": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "",
+            "rating": 5,
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "V1_page-11": {
+            "comments": "mistake 1 - र्वृतः - र्वृत्तः\nmistake 2 - दूव्या - द्व्या"
+        },
+        "V1_page-22": {
+            "comments": "mistake 1 - सङ्गु - सङ्ग्र"
+        },
+        "V1_page-30": {
+            "comments": "mistake 1 - रस्य - रस्स\nmistake2 - निस्मृ - निस्सृ"
+        },
+        "V1_page-35": {
+            "comments": "mistake 1 - र्गस्या - र्गस्था\nmistake 2 - कमी - कर्मा\nmistake 3 - श्रोतृ - श्रोतॄ\nmistake 4 - तद्वे - तद्धे\nmistake 5 - कृत्स्ता - कृत्स्ना\nmistake 6 - इत्यो - इत्ये"
+        },
+        "V1_page-36": {
+            "comments": "mistake 1 - पक्षे - पेक्ष\nmistake 2 - ण्यत्ये - ण्यत्वे\nmistake 3 - तत्व - तत्वा\nmistake 4 - ण्यस्या - ण्यस्था\nmistake 5 -  "
+        },
+        "V1_page-45": {
+            "comments": "mistake 1 - पङ्क्त - पंङ्क्ति\nmistake 2 - विस्तु - विस्तृ\nmistake 3 - भीष्ठ - भीष्ट"
+        },
+        "V1_page-49": {
+            "comments": "mistake 1 - र्गश्त्रि - र्गस्त्रि\nmistake 2 - नभु - नमु\nmistake 3 - पान्त - पान्त्य\nmistake 4 - हति - हीत"
+        },
+        "V1_page-50": {
+            "comments": "mistake 1 - न्त्याङ्ख - न्त्याङ्क\nmistake2 - राङ्ग - राङ्क\nmistake 3 - तस्या - तस्था\nmistake 4 - नस्या - नस्था\nmistake 5 - गुणा - गुण्य"
+        },
+        "V1_page-52": {
+            "comments": "mistake 1 - त्रिघ्र - त्रिघ्न\nmistake 2 - ण्डर - ण्डव"
+        }
+    }
+}
